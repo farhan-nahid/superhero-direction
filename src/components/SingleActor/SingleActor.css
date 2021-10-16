@@ -1,0 +1,54 @@
+.actor__card {
+  background-color: #fff;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 0 5px #d3d3d3;
+  border-radius: 5px;
+  transition: all 0.5s ease-in-out;
+  cursor: pointer;
+}
+
+.actor__card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 0 10px gray;
+}
+
+.actor__card img {
+  width: 100px;
+  object-fit: cover;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.actor__card table {
+  margin: 10px;
+}
+
+.actor__card table td {
+  padding: 5px 0;
+  color: #222;
+}
+
+.actor__card table tbody tr td:nth-child(1) {
+  padding-right: 10px;
+}
+
+.actor__card .hire__me__button {
+  border: 0;
+  outline: 0;
+  background-color: teal;
+  color: #fff;
+  padding: 10px 20px;
+  text-align: center;
+  font-family: inherit;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.actor__card .hire__me__button span {
+  margin-right: 5px;
+}
