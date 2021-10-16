@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "name": "Priyanka Chopra",
+    "photo": "https://i.ibb.co/mb6jJ5W/on-December-8-2011-in-Dubai-United-Arab-Emirates.jpg",
+    "occupation": "Actress",
+    "height": "1.65 m",
+    "salary": 250000,
+    "Birthday": "July 18, 1982"
+  },
+  {
+    "id": 2,
+    "name": "Shah Rukh Khan",
+    "photo": "https://i.ibb.co/LR8sYwR/shah-rukh-khan.jpg",
+    "occupation": "Actor",
+    "height": "1.69 m",
+    "salary": 350000,
+    "Birthday": "2 November 1965"
+  },
+  {
+    "id": 3,
+    "name": "Deepika Padukone",
+    "photo": "https://i.ibb.co/Bj6vSSd/deepika-padukone.jpg",
+    "occupation": "Actress",
+    "height": "1.74 m",
+    "salary": 210000,
+    "Birthday": "January 5, 1986"
+  },
+  {
+    "id": 4,
+    "name": "Salman Khan",
+    "photo": "https://i.ibb.co/ysytnP6/salman-khan.jpg",
+    "occupation": "Actor",
+    "height": "1.65 m",
+    "salary": 280000,
+    "Birthday": "December 27, 1965"
+  },
+  {
+    "id": 5,
+    "name": "Katrina Kaif",
+    "photo": "https://i.ibb.co/7xhVt28/katrina-kaif.jpg",
+    "occupation": "Actress",
+    "height": "1.68 m",
+    "salary": 310000,
+    "Birthday": "July 16, 1983"
+  },
+  {
+    "id": 6,
+    "name": "Akshay Kumar",
+    "photo": "https://i.ibb.co/VLgvHzL/Akshay-Kumar.jpg",
+    "occupation": "Actor",
+    "height": "1.78 m",
+    "salary": 240000,
+    "Birthday": "September 9, 1967"
+  },
+  {
+    "id": 7,
+    "name": "Alia Bhatt",
+    "photo": "https://i.ibb.co/nP2891M/Alia-Bhatt.jpg",
+    "occupation": "Actress",
+    "height": "1.55 m",
+    "salary": 290000,
+    "Birthday": "March 15, 1993"
+  },
+  {
+    "id": 8,
+    "name": "Aamir Khan",
+    "photo": "https://i.ibb.co/vkDCP0f/Aamir-Khan.jpg",
+    "occupation": "Actor",
+    "height": "1.63 m",
+    "salary": 270000,
+    "Birthday": "March 14, 1965 "
+  },
+  {
+    "id": 9,
+    "name": "Jacqueline Fernandez",
+    "photo": "https://i.ibb.co/gFQx66w/jac.jpg",
+    "occupation": "Actress",
+    "height": "1.63 m",
+    "salary": 320000,
+    "Birthday": "August 11, 1985"
+  },
+  {
+    "id": 10,
+    "name": "Ranbir Kapoor",
+    "photo": "https://i.ibb.co/BL9J18p/Ranbir-Kapoor.jpg",
+    "occupation": "Actor",
+    "height": "1.83 m",
+    "salary": 220000,
+    "Birthday": "September 28, 1982 "
+  },
+  {
+    "id": 11,
+    "name": "Tamannaah",
+    "photo": "https://i.ibb.co/zGsp62g/Tamannaah.jpg",
+    "occupation": "Actress",
+    "height": "1.65 m",
+    "salary": 190000,
+    "Birthday": "December 21, 1989"
+  },
+  {
+    "id": 12,
+    "name": "Shahid Kapoor",
+    "photo": "https://i.ibb.co/1MbMYmd/shahid-kapoor.jpg",
+    "occupation": "Actor",
+    "height": "1.69 m",
+    "salary": 180000,
+    "Birthday": " February 25, 1981"
+  },
+  {
+    "id": 13,
+    "name": "Rashi Khanna",
+    "photo": "https://i.ibb.co/s9XHs87/Rashi-Khanna.jpg",
+    "occupation": "Actress",
+    "height": "1.63 m",
+    "salary": 350000,
+    "Birthday": "November 30, 1990"
+  },
+  {
+    "id": 14,
+    "name": "Varun Dhawan",
+    "photo": "https://i.ibb.co/b1xnX2j/Varun-Dhawan.jpg",
+    "occupation": "Actor",
+    "height": "1.73 m",
+    "salary": 250000,
+    "Birthday": "April 24, 1987"
+  },
+  {
+    "id": 15,
+    "name": "Preity Zinta",
+    "photo": "https://i.ibb.co/31KDqQk/images.jpg",
+    "occupation": "Actress",
+    "height": "1.63 m",
+    "salary": 150000,
+    "Birthday": "January 31, 1975"
+  }
+]
