@@ -10,7 +10,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import React from "react";
 import "./SingleActor.css";
 
-const SingleActor = ({ actor }) => {
+const SingleActor = ({ actor, handleSelect }) => {
   const { photo, name, salary, occupation, Birthday, height } = actor;
 
   return (
@@ -56,7 +56,7 @@ const SingleActor = ({ actor }) => {
           </tr>
         </tbody>
       </table>
-      <button className="hire__me__button">
+      <button className="hire__me__button" onClick={() => handleSelect(actor)}>
         {" "}
         <span>
           <FontAwesomeIcon icon={faCartArrowDown} />
