@@ -1,18 +1,16 @@
-## [`Bollywood Superstars`](https://bollywood-superstars.netlify.app/)
-
----
+### [`Bollywood Superstars`](https://bollywood-superstars.netlify.app/)
 
 ### `Some Description`
 
 - This is a simple Web application.
-- In this application we can see some actors. which is basically load from fakeData/
+- In this application we can see some actors. Which is basically load from fakeData
 - By clicking Hire Me button we can hire them
 - In right side we can see total cost
 - We also see our selected actors
 
-### `Demo`
-
 ---
+
+### `Demo`
 
 <img src="./src/images/demo.gif" alt="Demo" border="0">
 
@@ -22,6 +20,8 @@
 
 https://bollywood-superstars.netlify.app/
 
+---
+
 ### `Technology`
 
 - [x] ReactJs
@@ -30,6 +30,8 @@ https://bollywood-superstars.netlify.app/
 - [x] Hooks (useState, useEffect)
 - [x] FakeData
 - [x] Font Awesome Icons
+
+---
 
 ### `Tools`
 
