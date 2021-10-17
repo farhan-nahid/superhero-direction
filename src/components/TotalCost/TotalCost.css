@@ -57,3 +57,16 @@
   margin-bottom: 10px;
   object-fit: cover;
 }
+
+@media only screen and (max-width: 1134px) {
+  .total__cost h1 {
+    font-size: 20px;
+    margin-bottom: 25px;
+  }
+}
+
+@media only screen and (max-width: 1065px) {
+  .selected__actors {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}

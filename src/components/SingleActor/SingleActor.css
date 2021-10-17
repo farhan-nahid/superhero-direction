@@ -47,8 +47,40 @@
   font-size: 16px;
   border-radius: 5px;
   cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  z-index: 2;
+}
+
+.actor__card .hire__me__button::before {
+  content: "\f217";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  transform: translateY(100%);
+  transition: all 0.5s ease-in-out;
+  background-color: darkslategray;
+  height: 100%;
+  overflow: hidden;
+  border-radius: 5px;
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: fontawesome;
+}
+
+.actor__card .hire__me__button:hover::before {
+  transform: translateY(0);
 }
 
 .actor__card .hire__me__button span {
   margin-right: 5px;
+}
+
+@media only screen and (max-width: 600px) {
+  .actor__card {
+    padding: 10px;
+  }
 }

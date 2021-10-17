@@ -17,7 +17,7 @@ const TotalCost = ({ selectedActors }) => {
           <span>
             <FontAwesomeIcon icon={faUser} />
           </span>
-          Players Added: {selectedActors.length}
+          Superstars Added: {selectedActors.length}
         </h1>
         <h4>Total Cost: {totalCost} ৳</h4>
       </div>
