@@ -25,7 +25,7 @@ https://bollywood-superstars.netlify.app/
 ### `Technology`
 
 - [x] ReactJs
-- [x] XML
+- [x] JSX
 - [x] CSS3
 - [x] Hooks (useState, useEffect)
 - [x] FakeData
